@@ -99,9 +99,10 @@ This project demonstrates a complete analytics lifecycle—starting with a raw C
 
 ## 👤 Author
 
-**Gopal Amle**
-Email: [gopsamle@gmail.com](mailto:gopsamle@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/gopal-amle-45274a231/](https://www.linkedin.com/in/gopal-amle-45274a231/)
+**Gopal Amle**  
+**Email:** gopsamle@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/gopal-amle-45274a231/](https://www.linkedin.com/in/gopal-amle-45274a231/)
+
 
 ---
 
