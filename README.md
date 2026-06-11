@@ -106,7 +106,3 @@ This project demonstrates a complete analytics lifecycle—starting with a raw C
 
 ---
 
-## 📌 Notes
-
-* Consistent spelling used: *behavior* (US) throughout. Switch to *behaviour* (UK) if preferred.
-* Replace example SQL/table names with your schema.
